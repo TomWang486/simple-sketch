@@ -1,3 +1,3 @@
-Batman rich
-Superman flying
-Spiderman climbing
+Batman rich    black
+Superman flying     red and blue
+Spiderman climbing   red
